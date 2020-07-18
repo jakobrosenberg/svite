@@ -45,6 +45,7 @@
     "degit": "^2.8.0",
     "execa": "^4.0.3",
     "lru-cache": "^6.0.0",
+    "svelte-hmr": "latest",
     "rollup-plugin-svelte-hot": "^0.10.0-0 || ^0.10.0"
   },
   "peerDependencies": {
